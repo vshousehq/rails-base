@@ -13,9 +13,18 @@ Check [ASDF configuration](.tool-versions)
 
 * Database creation
 
+```shell
+rake db:setup
+rake db:migrate
+```
+
 * Database initialization
 
 * How to run the test suite
+
+```shell
+rspec
+```
 
 * Services (job queues, cache servers, search engines, etc.)
 
