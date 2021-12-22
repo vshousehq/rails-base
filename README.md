@@ -32,5 +32,3 @@ rspec
 
 App is automatically deployed to [https://vshouse-checklists.herokuapp.com/](https://vshouse-checklists.herokuapp.com/) in heroku when
 merged to `main` branch.
-
-* ...
