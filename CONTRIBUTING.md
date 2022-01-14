@@ -16,7 +16,7 @@ asdf plugin-add postgres
 
 # Setup
 
-# Packages
+## Packages
 
 ```shell
 bundle install
