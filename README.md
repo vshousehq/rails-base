@@ -29,7 +29,7 @@ rspec
 * Services (job queues, cache servers, search engines, etc.)
 
 ```shell
-foreman start -f Procfile.dev
+bin/dev
 ```
 
 * Deployment instructions
