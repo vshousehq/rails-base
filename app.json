@@ -24,12 +24,9 @@
   "addons": [
     "heroku-redis",
     {
-      "plan": "hobby-dev"
-    },
-    {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "9.5"
+        "version": "13"
       }
     }
   ]
