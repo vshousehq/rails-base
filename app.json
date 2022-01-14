@@ -22,10 +22,9 @@
   },
   "image": "heroku/ruby",
   "addons": [
-    "openredis",
+    "heroku-redis",
     {
-      "plan": "mongolab:shared-single-small",
-      "as": "MONGO"
+      "plan": "hobby-dev"
     },
     {
       "plan": "heroku-postgresql",
