@@ -12,9 +12,13 @@ Rails base is a professional Ruby on Rails template pre-configured with the foll
 - [ ] Code quality tools (rubocop)
 - [ ] Github CI pipeline
 - [x] Authentication with `devise`
+- [ ] Authorization with `pundit`
 - [x] Tailwind support
 - [ ] [View components](https://viewcomponent.org/).
-
+- [ ] Admin interface
+- [ ] Docker image
+- [ ] A/B testing
+- [ ] Feature flags
 
 # Contributing
 
